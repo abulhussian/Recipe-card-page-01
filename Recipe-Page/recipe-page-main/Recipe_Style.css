@@ -1,0 +1,115 @@
+body{
+background-color:hsl(330, 100%, 98%);
+    justify-content: center;
+    /* margin-left: 150px;
+    margin-right: 150px; */
+
+}
+p{
+    color: #5F564D;
+    width: 656px;
+}
+img{
+    width: 656px;
+    height: 300px;
+    border-radius: 12px;
+
+}
+h1{
+    font-family: "Young Serif";
+    color: black;
+    font-weight: 400;
+}
+h2{
+    color:hsl(332, 51%, 32%);
+}
+li{
+    margin-top: 16px;
+    margin-bottom: 16px;
+    margin-left: 16px;
+    margin-right: 16px;
+    color: hsl(14, 45%, 36%)
+
+    
+}
+#name{
+    margin-right: 50px;
+     
+
+
+}
+.normal{
+    color: #5F564D;
+}
+
+.Preparation{
+  background-color: #FFF7FB;
+  width: 656px;
+  padding:20px;
+  border-radius: 10px;
+
+
+}
+#id{
+    color:hsl(332, 51%, 32%);
+
+}
+.sub{
+    font-weight: bold;
+    color: #5F564D;
+} 
+h3{ font-family: "Young Serif";
+    font-weight: 400;
+
+    text-align: left;
+ color: hsl(14, 45%, 36%)
+
+
+}
+#cal{
+    color: #854632;
+    margin-right: 10px;
+}
+.Inst{
+    width: 656px;
+}
+.content-container{
+    margin-left: 295px;
+    margin-right: 295px;
+    border-radius: 12px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: #FFFF;
+    display: flex;
+    justify-content: center;
+    flex-direction:column;
+    align-items: center;
+    
+}
+.table{
+    display: flex;
+    justify-self: center;
+    
+    
+}
+.pp{  
+    width: 656px;
+ }
+#cal{
+    color: #854632;
+    
+}
+.pt{
+    width: 656px;
+    margin-left: 50px;
+    
+}
+.Ingredients{
+    width: 656px;
+}
+.Nutrition{
+    margin-left: 20px;
+}
+
